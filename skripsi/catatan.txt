@@ -1,0 +1,10 @@
+perumusan masalah
+bagaimana merancang sistem informasi pemesanan customer dan mendapatkan notifikasi di whatsapp pemilik
+
+buat latar belakang umum dan kerucut solusi
+
+paraprase
+
+ngambil dari sumber data
+
+
