@@ -1,0 +1,66 @@
+BUKU
+- Aplikasi
+Ramzi, Pengertian Aplikasi, Penerbit Informatika, Bandung 2013
+KBBI, Kamus Besar Bahasa Indonesia, Departemen Pendidikan Nasional Republik Indoneisa, [Online]. Available:
+http://badanbahasa.kemdikbud.go.id/kbbi/. [Accessed 12 Oktober 2019]
+
+- Website
+Christian, Andi. "Rancang Bangun Website Sekolah dengan Menggunakan Framework Bootstrap (Studi Kasus SMP
+Negeri 6 Prabumulih)". Jurnal SISFOKOM. 7(1):22-27, 2018.
+Sidik B, Pemrograman Web Dengan PHP, Informasi, Bandung, 2006.
+
+
+- Internet 
+Finandhita A, Heryandi A. Kajian Kesiapan Jaringan Komputer UNIKOM Menghadapi Perubahan
+Internet Protocol. (2):10.
+
+- Pemesanan
+Septian, D. S., "Perancangan Sistem Notifikasi dan Reminder Pemesanan Barang Konsinyasi Berbasis
+SMS Gateway" STMIK Raharja, Jurnal Ilmiah Ilmu dan Teknologi Rekayasa, Vol.1 , 2018.
+
+- Whatsapp
+Hartanto, AAT. Panduan aplikasi smartphone, halaman 100. Gramedia Pstaka Utama, ISBN 100-6762-33-5, Jurnal Ilmu Teknik Elektro 
+Komputer dan Informatika (JITEKI) Vol. 3, 2017.
+
+- HTML
+R. AStamal, Mastering Kode HTML, Surabaya : rahasia-webmaster.com 2006
+
+- CSS
+Sugiri, dan Budi Kurniawan. "Desaub Web Menggunakan HTML dan CSS". Yogayakarta, 2007.
+
+- JavaScript
+
+
+- PHP
+Nurcholish, ahmad, Membangun database arsip persuratan menggunakan pemrogreaman PHP dan Mysql: studi kasus pada kantor 
+balai taman nasional gunung rinjani, sukabumi : CV. jejak, 2018
+PHP, "PHP." [Online]. Tersedua : http://php.net/manual/en/intro-whatis.php. [Diakses 8 Maret 2018]
+Rahmawati, Lina. "Perancangan Website Sebagai Sarana Promosi pada Mts Ma'arif Nu 1 Ajibarang". Jurnal 
+Telematika. 5(2):38-48,2012
+Raharjo, Budi, Imam heryanto, Dan E. Rosidana K. Modul Pemrogreaman Web (HTML, PHP, & MySql).
+Bandung 2014
+Peter Maelntyre, Mladen Gogala, Brian Danchilla, Pro php programing. 2010. Apress, Xvii.
+
+- Codeigniter
+"CodeIgniter." [Online]. Tersedia: https://codeigniter-id.github.io. [Diakses 8 maret 2018]
+Naista, David. "Codeigniter vs Laravel Kasus membuat website pencari kerja". Yogyakarta: Lokomedia, 2017
+
+- MySQL
+Irsyad, Muhammad. "Perancangan Website Sebagai Sarana Promosi pada Mts Ma'arif Nu 1 Ajibarang".
+Jurnal STT-Garut. 9(41):1-11, 2012.
+Sidik, Betha,"Pemrogreaman Web Dengan PHP", Informatika, Bandung, 2004.
+Nixon Robin, 2009, Leraning PHP, MySQL, and JavaScript, O'Reilly Media, Inc.1005 Graveinstein Highway North. California.299.
+
+- API/ restfull
+tulach, J. Practical API Design : Confessions of a java framework architect. United States of America
+: Apress, 2008
+"REST API", [Online] Https://elib.unikom.ac.id/files/diskl/597/jbtunikompp-gdl-riansatria-29820-9-unikom_r-i.pdf 
+[Accesed 28 07 2019]
+Darmawansyah dan M.syaryadhi, "Restful web service untuk pemantauan dan pengendalian peternakan ayam broiler" KITEKTRO, vol.3,
+no.2, hal 53-59, 2018
+
+Jurnal 
+
+M. W. R. Fakhrun, S. F. S. Gumilang, "Rancangan web service dengan metode rest api untuk integrasi aplikasi mobile
+dan website pada bank sampah" Rancangan Web Service dengan Metode REST API untuk Integrasi
+aplikasi mobile dan website pada bank sampah, pp. 214-219, 2018.
